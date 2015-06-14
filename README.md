@@ -4,7 +4,7 @@
 
 ## Summary
 
-A simple but useful class methods for get all main info of a iOS device.
+Simple but useful class methods for get all main info of a iOS device.
 
 DeviceInfo can return to you:
 
