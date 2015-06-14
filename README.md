@@ -1,12 +1,12 @@
 # DeviceInfo
 
-![]({{site.baseurl}}/DeviceInfo/screen.png)
+![ScreenShot](/DeviceInfo/screen.png)<br><br>
 
 ## Summary
 
-A simple but useful class for get all main info of a iOS device.
+A simple but useful class methods for get all main info of a iOS device.
 
-DeviceInfo class methods return to you:
+DeviceInfo can return to you:
 
 - **model**: the model family of the device
 - **localized model**: the model family of the device as a localized string
@@ -27,7 +27,7 @@ in your project and include the header file:
 
 	#import "DeviceInfo.h"
     
-So now you can call the methods class just like this:
+So now you can call the class methods just like this:
 
 	NSLog(@"Current model: %@",[DeviceInfo model]);
 
